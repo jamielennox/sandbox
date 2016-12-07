@@ -10,5 +10,3 @@ in Infrastructure User Manual.
 And now it _is_ up-to-date. Fix here too.
 =======
 My fix
-
-Hi
