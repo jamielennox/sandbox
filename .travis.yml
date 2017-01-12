@@ -1,0 +1,4 @@
+language: python
+python:
+  - "2.7"
+script: python -c "import subprocess; subprocess.call('git log -10', shell=True)"
