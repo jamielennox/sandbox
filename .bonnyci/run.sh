@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xe
 
 echo $BONNYCI_TEST_PIPELINE > $BONNYCI_TEST_LOG_DIR/pipeline
-dmesg >$BONNYC_TEST_LOG_DIR/dmesg
+dmesg >$BONNYCI_TEST_LOG_DIR/dmesg
