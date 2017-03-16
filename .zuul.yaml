@@ -1,0 +1,5 @@
+- project:
+    name: jamielennox/sandbox
+    gerrithub_check:
+      jobs:
+        - bonnyci
