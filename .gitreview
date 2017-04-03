@@ -1,4 +1,4 @@
 [gerrit]
 host=review.gerrithub.io
 port=29418
-project=jamielennox/sandbox.git
+project=BonnyCI/sandbox-v3.git
