@@ -1,5 +1,5 @@
 - project:
-    name: BonnyCI/sandbox
+    name: BonnyCI/sandbox-v3
     gerrithub_check:
       jobs:
         - bonnyci
